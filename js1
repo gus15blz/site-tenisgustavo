@@ -1,0 +1,98 @@
+let pizzaJson = [
+    {
+        id: 1,
+        name: 'Adidas Forum Low',
+        img: 'imagens/forum_low.png',
+        price: [699.99, 699.99, 479.99],
+        sizes: [
+          '--33--',
+          '--38--',
+          '--41--'
+        ],
+        description: 'O adidas Forum Low é um tênis retrô inspirado no basquete dos anos 80, com cabedal de couro, solado robusto e uma tira icônica no tornozelo, que destacam sua herança esportiva.'
+      },
+      {
+        id: 2,
+        name: 'New Balence 550',
+        img: 'imagens/nb.png',
+        price: [799.99,799.99,799.99],
+        sizes: [
+          '--34--',
+          '--38--',
+          '--41--'
+        ],
+        description: 'O New Balance 550 é um tênis retrô de basquete, lançado em 1989, com cabedal de couro e solado robusto, refletindo sua herança esportiva'
+      },
+      {
+        id: 3,
+        name: 'OUS Celtics',
+        img: 'imagens/ous.png',
+        price: [489.90,489.90,489.90],
+        sizes: [
+          '--34--',
+          '--36--',
+          '--41--'
+        ],
+        description: 'A ÖUS, marca brasileira, lançou o ÖUS Imigrante NBA Boston Celtics Imperial em colaboração com a NBA, homenageando o time Celtics com detalhes em verde e branco.'
+      },
+      {
+        id: 4,
+        name: 'Chunky Dunky',
+        img: 'imagens/chunky.png',
+        price: [200.00, 120.00, 189.99],
+        sizes: [
+          '--34--',
+          '--38--',
+          '--41--'
+        ],
+        description: 'O Nike SB Dunk Low "Chunky Dunky", colaboração entre Nike e Ben & Jerrys, foi lançado em 2020 inspirado no sorvete "Chunky Monkey". Com estampas de vaca, céu azul e logo derretendo, o design vibrante tornou-o um item cobiçado entre colecionadores pela criatividade e mistura de moda com'
+      },
+      {
+        id: 5,
+        name: 'Puma Shuffle',
+        img: 'imagens/shuffle.png',
+        price: [239.99, 269.99, 290.99],
+        sizes: [
+          '--34--',
+          '--38--',
+          '--41--'
+        ],
+        description: 'O Puma Shuffle é um tênis retrô, confortável e versátil, com amortecimento SoftFoam+ e solado aderente, ideal para estilos casuais e esportivos.'
+      },
+      {
+        id: 6,
+        name: 'Puma Carina',
+        img: 'imagens/carina.png',
+        price: [399.99, 339.99, 450.99],
+        sizes: [
+          '--34--',
+          '--36--',
+          '--39--'
+        ],
+        description: 'O Puma Carina é um tênis feminino inspirado nos anos 80, com design retrô e solado plataforma. Oferece conforto com palmilha SoftFoam+ e é versátil, ideal para looks casuais e esportivos.'
+      },
+      {
+        id: 7,
+        name: 'Vans KNU',
+        img: 'imagens/knu2.png',
+        price: [599.99, 599.99, 599.99],
+        sizes: [
+          '--33--',
+          '--37--',
+          '--42--'
+        ],
+        description: 'O Vans Knu Skool é um tênis retrô dos anos 90, robusto, confortável e durável, ideal para estilos urbanos e skate.'
+      },
+      {
+        id: 8,
+        name: 'Air Force 4',
+        img: 'imagens/air.png',
+        price: [300.00, 320.00, 350.00],
+        sizes: [
+          '--33--',
+          '--37--',
+          '--42--'
+        ],
+        description: 'O Nike Air Force 4 é uma versão moderna do clássico Air Force 1, com design em couro e entressola elevada. Oferece conforto e versatilidade, disponível em várias cores para diferentes estilos.'
+      }
+];
